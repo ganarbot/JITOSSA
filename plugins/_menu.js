@@ -140,10 +140,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
 text: text,
 contextInfo: {
 externalAdReply: {
-title: 'JITOSSA',
-body: "WELCOME TO JITOSSA",
-thumbnailUrl: 'https://telegra.ph/file/51a76af5ac51cc5bd73b2.jpg',
-sourceUrl: 'https://instagram.com/OVMAR_1',
+title: 'ABDEESAMAD',
+body: "WELCOME TO ABDEESAMAD",
+thumbnailUrl: 'https://telegra.ph/file/e93e64a4491602b0013e2.jpg',
+sourceUrl: 'https://whatsapp.com/channel/0029VaXjhZHDTkJyxH5F1w1L',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
