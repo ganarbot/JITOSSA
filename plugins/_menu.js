@@ -23,7 +23,7 @@ let tags = {
 }
 const defaultMenu = {
     before: `
-*JITOSSA MD*
+*ABDEESSAMAD GANAR TECH*
 
 ┌  ➦ _w9t lbot : %uptime_
 │  ➦ _lyoum :  %week_
